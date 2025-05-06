@@ -151,6 +151,9 @@ Spring Cloud 爱好者,现就任于鲜易供应链平台研发部.
 
 ![项目架构图](http://img.paascloud.net/paascloud/doc/paascloud-project.png)
 
+### 致谢
+特别感谢 [www.vtexs.com](https://www.vtexs.com) 对本项目的帮助和支持！
+
 
 
 
